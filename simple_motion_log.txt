@@ -1,0 +1,6 @@
+============================================================
+Aubo Robot Simple Motion Test
+============================================================
+
+⚠️  WARNING: This will move the robot!
+Type 'YES' to continue: 
